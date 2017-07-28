@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/brush.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/save.png</file>
+        <file>icons/text.png</file>
+        <file>icons/arrow.png</file>
+        <file>icons/ellipse.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/back.png</file>
+    </qresource>
+</RCC>
